@@ -4,6 +4,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/devanshu0000/Leetcode_solution/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0792-binary-search) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshu0000/Leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
