@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devanshu0000/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
