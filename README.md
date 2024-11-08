@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
