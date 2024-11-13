@@ -78,4 +78,12 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0908-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
