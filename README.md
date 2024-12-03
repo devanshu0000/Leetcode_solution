@@ -54,6 +54,7 @@
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
+| [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0001-two-sum) |
+| [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -128,4 +131,8 @@
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/devanshu0000/Leetcode_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
