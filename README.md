@@ -9,6 +9,7 @@
 | [0278-first-bad-version](https://github.com/devanshu0000/Leetcode_solution/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/devanshu0000/Leetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/devanshu0000/Leetcode_solution/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -27,6 +28,7 @@
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/devanshu0000/Leetcode_solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/devanshu0000/Leetcode_solution/tree/master/0907-koko-eating-bananas) |
@@ -38,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/devanshu0000/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0908-middle-of-the-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -51,6 +54,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2756-buy-two-chocolates](https://github.com/devanshu0000/Leetcode_solution/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
@@ -140,6 +144,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Sliding Window
 |  |
 | ------- |
