@@ -36,6 +36,7 @@
 | [0890-lemonade-change](https://github.com/devanshu0000/Leetcode_solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/devanshu0000/Leetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/devanshu0000/Leetcode_solution/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2756-buy-two-chocolates](https://github.com/devanshu0000/Leetcode_solution/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
@@ -100,6 +101,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
