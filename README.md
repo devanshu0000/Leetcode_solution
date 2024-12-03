@@ -32,6 +32,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/devanshu0000/Leetcode_solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/devanshu0000/Leetcode_solution/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/devanshu0000/Leetcode_solution/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2756-buy-two-chocolates](https://github.com/devanshu0000/Leetcode_solution/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
@@ -55,6 +56,7 @@
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 | [2756-buy-two-chocolates](https://github.com/devanshu0000/Leetcode_solution/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
@@ -63,6 +65,7 @@
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -145,8 +148,21 @@
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
