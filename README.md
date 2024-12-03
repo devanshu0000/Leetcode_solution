@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/devanshu0000/Leetcode_solution/tree/master/0278-first-bad-version) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -25,6 +26,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
@@ -54,6 +56,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -90,6 +93,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
@@ -148,6 +152,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
