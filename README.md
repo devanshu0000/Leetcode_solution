@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,8 +103,10 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
