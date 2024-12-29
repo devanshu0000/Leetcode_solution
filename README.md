@@ -36,6 +36,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devanshu0000/Leetcode_solution/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/devanshu0000/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -117,12 +118,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/devanshu0000/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/devanshu0000/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
