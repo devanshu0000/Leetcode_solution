@@ -43,6 +43,7 @@
 | [0041-first-missing-positive](https://github.com/devanshu0000/Leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/devanshu0000/Leetcode_solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/devanshu0000/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/devanshu0000/Leetcode_solution/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 ## Hash Table
