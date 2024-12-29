@@ -45,6 +45,7 @@
 | [0046-permutations](https://github.com/devanshu0000/Leetcode_solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/devanshu0000/Leetcode_solution/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -240,4 +241,5 @@
 | [0039-combination-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/devanshu0000/Leetcode_solution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/devanshu0000/Leetcode_solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
