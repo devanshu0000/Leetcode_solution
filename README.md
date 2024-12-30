@@ -111,6 +111,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
@@ -159,6 +160,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshu0000/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/devanshu0000/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/devanshu0000/Leetcode_solution/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshu0000/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
