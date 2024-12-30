@@ -65,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshu0000/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/devanshu0000/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/devanshu0000/Leetcode_solution/tree/master/0016-3sum-closest) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshu0000/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/devanshu0000/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
@@ -166,6 +168,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshu0000/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
