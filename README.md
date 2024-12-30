@@ -103,6 +103,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/devanshu0000/Leetcode_solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devanshu0000/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
@@ -144,6 +145,7 @@
 | [0001-two-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshu0000/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/devanshu0000/Leetcode_solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devanshu0000/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/devanshu0000/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/devanshu0000/Leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/devanshu0000/Leetcode_solution/tree/master/0041-first-missing-positive) |
@@ -164,6 +166,7 @@
 | [0008-string-to-integer-atoi](https://github.com/devanshu0000/Leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/devanshu0000/Leetcode_solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devanshu0000/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
