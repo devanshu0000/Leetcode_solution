@@ -167,6 +167,7 @@
 | [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/devanshu0000/Leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devanshu0000/Leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
@@ -258,4 +259,8 @@
 | [0040-combination-sum-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/devanshu0000/Leetcode_solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/devanshu0000/Leetcode_solution/tree/master/0051-n-queens) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
