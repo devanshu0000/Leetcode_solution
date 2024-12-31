@@ -105,6 +105,7 @@
 | [0009-palindrome-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/devanshu0000/Leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devanshu0000/Leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
@@ -176,6 +177,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/devanshu0000/Leetcode_solution/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
