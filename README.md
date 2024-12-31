@@ -110,6 +110,7 @@
 | [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
@@ -184,6 +185,7 @@
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devanshu0000/Leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -291,4 +293,9 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
