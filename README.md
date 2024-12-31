@@ -171,6 +171,7 @@
 | [0014-longest-common-prefix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
@@ -182,6 +183,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshu0000/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/devanshu0000/Leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0040-combination-sum-ii) |
