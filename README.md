@@ -175,6 +175,7 @@
 | [0022-generate-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/devanshu0000/Leetcode_solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
