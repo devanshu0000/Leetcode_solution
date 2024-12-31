@@ -174,11 +174,13 @@
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -186,6 +188,7 @@
 | [0005-longest-palindromic-substring](https://github.com/devanshu0000/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
