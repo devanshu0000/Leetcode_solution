@@ -71,6 +71,7 @@
 | [0016-3sum-closest](https://github.com/devanshu0000/Leetcode_solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/devanshu0000/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -172,6 +173,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
