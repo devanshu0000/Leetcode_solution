@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshu0000/Leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/devanshu0000/Leetcode_solution/tree/master/0890-lemonade-change) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
@@ -178,6 +180,7 @@
 | [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/devanshu0000/Leetcode_solution/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
@@ -192,6 +195,7 @@
 | [0010-regular-expression-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/devanshu0000/Leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
