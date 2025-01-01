@@ -202,6 +202,7 @@
 | [0071-simplify-path](https://github.com/devanshu0000/Leetcode_solution/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/devanshu0000/Leetcode_solution/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/devanshu0000/Leetcode_solution/tree/master/0091-decode-ways) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0055-jump-game](https://github.com/devanshu0000/Leetcode_solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/devanshu0000/Leetcode_solution/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/devanshu0000/Leetcode_solution/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 ## Combinatorics
