@@ -50,6 +50,7 @@
 | [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/devanshu0000/Leetcode_solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devanshu0000/Leetcode_solution/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/devanshu0000/Leetcode_solution/tree/master/0057-insert-interval) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
