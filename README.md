@@ -52,6 +52,7 @@
 | [0056-merge-intervals](https://github.com/devanshu0000/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devanshu0000/Leetcode_solution/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -132,6 +133,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -151,6 +153,7 @@
 | [0037-sudoku-solver](https://github.com/devanshu0000/Leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 ## Hash Table
@@ -198,6 +201,7 @@
 | [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/devanshu0000/Leetcode_solution/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/devanshu0000/Leetcode_solution/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +302,7 @@
 | [0040-combination-sum-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/devanshu0000/Leetcode_solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/devanshu0000/Leetcode_solution/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
