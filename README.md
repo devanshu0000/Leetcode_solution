@@ -47,6 +47,7 @@
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/devanshu0000/Leetcode_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/devanshu0000/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +144,7 @@
 | [0036-valid-sudoku](https://github.com/devanshu0000/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/devanshu0000/Leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 ## Hash Table
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
