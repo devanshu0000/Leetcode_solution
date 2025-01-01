@@ -196,11 +196,13 @@
 | [0065-valid-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/devanshu0000/Leetcode_solution/tree/master/0071-simplify-path) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/devanshu0000/Leetcode_solution/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
