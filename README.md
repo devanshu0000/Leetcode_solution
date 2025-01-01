@@ -49,6 +49,7 @@
 | [0053-maximum-subarray](https://github.com/devanshu0000/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/devanshu0000/Leetcode_solution/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/devanshu0000/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +98,7 @@
 | [0015-3sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/devanshu0000/Leetcode_solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/devanshu0000/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
