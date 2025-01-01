@@ -51,6 +51,7 @@
 | [0055-jump-game](https://github.com/devanshu0000/Leetcode_solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devanshu0000/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devanshu0000/Leetcode_solution/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -194,6 +195,7 @@
 | [0058-length-of-last-word](https://github.com/devanshu0000/Leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
 ## Stack
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0043-multiply-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
 ## Bit Manipulation
 |  |
 | ------- |
