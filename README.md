@@ -54,6 +54,7 @@
 | [0059-spiral-matrix-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/devanshu0000/Leetcode_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
@@ -122,6 +123,7 @@
 | [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/devanshu0000/Leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/devanshu0000/Leetcode_solution/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/devanshu0000/Leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
