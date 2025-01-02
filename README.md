@@ -51,6 +51,7 @@
 | [0055-jump-game](https://github.com/devanshu0000/Leetcode_solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devanshu0000/Leetcode_solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devanshu0000/Leetcode_solution/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
@@ -153,6 +154,7 @@
 | [0037-sudoku-solver](https://github.com/devanshu0000/Leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/devanshu0000/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
@@ -318,6 +320,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
 ## Bit Manipulation
