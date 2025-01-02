@@ -216,6 +216,7 @@
 | [0091-decode-ways](https://github.com/devanshu0000/Leetcode_solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/0115-distinct-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0072-edit-distance](https://github.com/devanshu0000/Leetcode_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/devanshu0000/Leetcode_solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 ## Combinatorics
