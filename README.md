@@ -56,6 +56,7 @@
 | [0064-minimum-path-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/devanshu0000/Leetcode_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/devanshu0000/Leetcode_solution/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/devanshu0000/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
@@ -161,6 +162,7 @@
 | [0059-spiral-matrix-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/devanshu0000/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
@@ -176,6 +178,7 @@
 | [0037-sudoku-solver](https://github.com/devanshu0000/Leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/devanshu0000/Leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/devanshu0000/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
