@@ -219,6 +219,7 @@
 | [0097-interleaving-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/devanshu0000/Leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/devanshu0000/Leetcode_solution/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [0091-decode-ways](https://github.com/devanshu0000/Leetcode_solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/devanshu0000/Leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 ## Combinatorics
@@ -326,6 +328,7 @@
 | [0051-n-queens](https://github.com/devanshu0000/Leetcode_solution/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/devanshu0000/Leetcode_solution/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
