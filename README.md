@@ -90,6 +90,7 @@
 | [0075-sort-colors](https://github.com/devanshu0000/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devanshu0000/Leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
@@ -115,6 +116,7 @@
 | [0075-sort-colors](https://github.com/devanshu0000/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -303,6 +306,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/devanshu0000/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -357,4 +361,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
