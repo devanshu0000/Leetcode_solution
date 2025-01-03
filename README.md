@@ -61,6 +61,7 @@
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/devanshu0000/Leetcode_solution/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -119,6 +120,7 @@
 | [0147-insertion-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/devanshu0000/Leetcode_solution/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -191,6 +193,7 @@
 | [0041-first-missing-positive](https://github.com/devanshu0000/Leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/devanshu0000/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/devanshu0000/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -309,6 +312,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/devanshu0000/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -375,4 +379,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/devanshu0000/Leetcode_solution/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
