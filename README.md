@@ -66,6 +66,7 @@
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/devanshu0000/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -128,6 +129,7 @@
 | [0179-largest-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/devanshu0000/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -202,6 +204,7 @@
 | [0073-set-matrix-zeroes](https://github.com/devanshu0000/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devanshu0000/Leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -394,6 +397,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
