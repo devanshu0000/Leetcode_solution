@@ -81,6 +81,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/devanshu0000/Leetcode_solution/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2358-number-of-ways-to-split-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2756-buy-two-chocolates](https://github.com/devanshu0000/Leetcode_solution/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -347,6 +348,7 @@
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2358-number-of-ways-to-split-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/2358-number-of-ways-to-split-array) |
 ## Backtracking
 |  |
 | ------- |
