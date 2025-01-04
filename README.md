@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/devanshu0000/Leetcode_solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0792-binary-search) |
@@ -73,6 +74,7 @@
 | [0274-h-index](https://github.com/devanshu0000/Leetcode_solution/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
@@ -103,6 +105,7 @@
 | [0125-valid-palindrome](https://github.com/devanshu0000/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -140,6 +143,7 @@
 | [0274-h-index](https://github.com/devanshu0000/Leetcode_solution/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
@@ -218,6 +222,7 @@
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
