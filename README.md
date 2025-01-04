@@ -77,6 +77,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/devanshu0000/Leetcode_solution/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/devanshu0000/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
@@ -148,6 +149,7 @@
 | [0368-largest-divisible-subset](https://github.com/devanshu0000/Leetcode_solution/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/devanshu0000/Leetcode_solution/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/devanshu0000/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -438,4 +440,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/devanshu0000/Leetcode_solution/tree/master/0274-h-index) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/devanshu0000/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/devanshu0000/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
