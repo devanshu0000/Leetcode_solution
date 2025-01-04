@@ -70,6 +70,7 @@
 | [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/devanshu0000/Leetcode_solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -134,6 +135,7 @@
 | [0220-contains-duplicate-iii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/devanshu0000/Leetcode_solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -414,4 +416,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0220-contains-duplicate-iii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/devanshu0000/Leetcode_solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
