@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devanshu0000/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/devanshu0000/Leetcode_solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -68,6 +69,7 @@
 | [0220-contains-duplicate-iii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -131,6 +133,7 @@
 | [0217-contains-duplicate](https://github.com/devanshu0000/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
@@ -152,6 +155,7 @@
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devanshu0000/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -207,6 +211,7 @@
 | [0217-contains-duplicate](https://github.com/devanshu0000/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -385,6 +390,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devanshu0000/Leetcode_solution/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Merge Sort
 |  |
