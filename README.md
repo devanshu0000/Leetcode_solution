@@ -91,6 +91,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/devanshu0000/Leetcode_solution/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2358-number-of-ways-to-split-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [2756-buy-two-chocolates](https://github.com/devanshu0000/Leetcode_solution/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -276,6 +277,7 @@
 | [0179-largest-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/devanshu0000/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
 ## Backtracking
 |  |
 | ------- |
