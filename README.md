@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -284,6 +285,7 @@
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/devanshu0000/Leetcode_solution/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/devanshu0000/Leetcode_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/devanshu0000/Leetcode_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
