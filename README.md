@@ -94,6 +94,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [2756-buy-two-chocolates](https://github.com/devanshu0000/Leetcode_solution/tree/master/2756-buy-two-chocolates) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/devanshu0000/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [1524-string-matching-in-an-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/devanshu0000/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -406,11 +408,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshu0000/Leetcode_solution/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/devanshu0000/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/devanshu0000/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -460,4 +464,12 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/devanshu0000/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/devanshu0000/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/devanshu0000/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
