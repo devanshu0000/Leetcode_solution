@@ -87,6 +87,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/devanshu0000/Leetcode_solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/devanshu0000/Leetcode_solution/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/devanshu0000/Leetcode_solution/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1524-string-matching-in-an-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
@@ -237,6 +238,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/devanshu0000/Leetcode_solution/tree/master/0389-find-the-difference) |
+| [0952-word-subsets](https://github.com/devanshu0000/Leetcode_solution/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
@@ -280,6 +282,7 @@
 | [0131-palindrome-partitioning](https://github.com/devanshu0000/Leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/devanshu0000/Leetcode_solution/tree/master/0389-find-the-difference) |
+| [0952-word-subsets](https://github.com/devanshu0000/Leetcode_solution/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devanshu0000/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
