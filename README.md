@@ -130,6 +130,7 @@
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/devanshu0000/Leetcode_solution/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/devanshu0000/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2756-buy-two-chocolates](https://github.com/devanshu0000/Leetcode_solution/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
@@ -288,6 +289,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/devanshu0000/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/devanshu0000/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devanshu0000/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/devanshu0000/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -299,6 +301,7 @@
 | [0071-simplify-path](https://github.com/devanshu0000/Leetcode_solution/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/devanshu0000/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
