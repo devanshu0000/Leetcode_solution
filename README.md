@@ -192,6 +192,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
@@ -299,6 +300,7 @@
 | [0020-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshu0000/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/devanshu0000/Leetcode_solution/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/devanshu0000/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -331,6 +333,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -341,6 +344,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
