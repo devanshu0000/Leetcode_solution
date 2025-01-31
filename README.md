@@ -62,6 +62,7 @@
 | [0075-sort-colors](https://github.com/devanshu0000/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0164-maximum-gap](https://github.com/devanshu0000/Leetcode_solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0179-largest-number) |
@@ -335,6 +336,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -346,6 +348,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devanshu0000/Leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -355,6 +358,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/devanshu0000/Leetcode_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Heap (Priority Queue)
@@ -378,6 +382,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/devanshu0000/Leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0324-wiggle-sort-ii) |
