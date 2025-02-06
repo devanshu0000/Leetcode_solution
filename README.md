@@ -92,6 +92,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/devanshu0000/Leetcode_solution/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/devanshu0000/Leetcode_solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1524-string-matching-in-an-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/devanshu0000/Leetcode_solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/devanshu0000/Leetcode_solution/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devanshu0000/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/2358-number-of-ways-to-split-array) |
