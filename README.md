@@ -73,6 +73,7 @@
 | [0239-sliding-window-maximum](https://github.com/devanshu0000/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/devanshu0000/Leetcode_solution/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/devanshu0000/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -116,6 +117,7 @@
 | [0088-merge-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devanshu0000/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/devanshu0000/Leetcode_solution/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/devanshu0000/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshu0000/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
