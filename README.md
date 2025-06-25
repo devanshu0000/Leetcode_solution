@@ -83,6 +83,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devanshu0000/Leetcode_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/devanshu0000/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devanshu0000/Leetcode_solution/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/devanshu0000/Leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/devanshu0000/Leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/devanshu0000/Leetcode_solution/tree/master/0802-k-th-smallest-prime-fraction) |
