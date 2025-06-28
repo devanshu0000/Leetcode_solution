@@ -63,6 +63,7 @@
 | [0079-word-search](https://github.com/devanshu0000/Leetcode_solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/devanshu0000/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshu0000/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshu0000/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/devanshu0000/Leetcode_solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/devanshu0000/Leetcode_solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devanshu0000/Leetcode_solution/tree/master/0179-largest-number) |
@@ -331,6 +332,7 @@
 | [0091-decode-ways](https://github.com/devanshu0000/Leetcode_solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/devanshu0000/Leetcode_solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/devanshu0000/Leetcode_solution/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshu0000/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/devanshu0000/Leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/devanshu0000/Leetcode_solution/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/devanshu0000/Leetcode_solution/tree/master/0264-ugly-number-ii) |
