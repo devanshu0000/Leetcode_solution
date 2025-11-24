@@ -509,4 +509,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/devanshu0000/Leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/devanshu0000/Leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
